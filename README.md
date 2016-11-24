@@ -13,7 +13,7 @@ The OCaml code is compiled as usal by ocamlbuild/ocamlc/... It waits for the inp
 
 ## What's the result ?
 
-It shows us the best solution for this problem, which gives 272 votes ! It has been illustrated in final_map.png?
+It shows us the best solution for this problem, which gives 272 votes ! It has been illustrated in final_map.png.
 
 ## How does this work ?
 
